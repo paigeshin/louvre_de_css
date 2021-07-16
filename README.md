@@ -21,6 +21,19 @@
 - [ ]  background-origin: border-box
 - [ ]  background-clip: border-box
 
+# CSS Settings
+
+[My default Setting](https://www.notion.so/My-default-Setting-b1c38b41f98d432f9498c7fcfadf3f55)
+
+# CSS by building Secret Letter Web
+
+[grid fr, minmax, auto-fit, auto-fill](https://www.notion.so/grid-fr-minmax-auto-fit-auto-fill-994a2a9103344777941a93185b907112)
+
+[CSS, how to make background image using before & after and font-awesome ](https://www.notion.so/CSS-how-to-make-background-image-using-before-after-and-font-awesome-74964f873eba45899bde525da0443332)
+
+# SCSS mixins
+
+[font with gradient - scss ](https://www.notion.so/font-with-gradient-scss-ba39a25b8e4c4db59d02c015e63c74e3)
 
 
 # CSS Lecture by Max
