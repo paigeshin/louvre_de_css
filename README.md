@@ -21,6 +21,59 @@
 - [ ]  background-origin: border-box
 - [ ]  background-clip: border-box
 
+# Theory
+
+[Grid Layout Tutorial](https://www.notion.so/Grid-Layout-Tutorial-3fd0fe3e17864afdbdeb4116ddfe1e08)
+
+[Flex Layout Tutorial](https://www.notion.so/Flex-Layout-Tutorial-b87299060f3b41fd8bab24752ec292eb)
+
+[About "auto" property](https://www.notion.so/About-auto-property-7ca0eccc1910411ead37dd56ce0f6929)
+
+[Margin Collapsing](https://www.notion.so/Margin-Collapsing-829b6e113fe644cba1e2470e75e7e81c)
+
+[Which Unit Should I Choose?](https://www.notion.so/Which-Unit-Should-I-Choose-8452ce5e82054a9b8363b6334bf0b1c8)
+
+[ways to center element](https://www.notion.so/ways-to-center-element-44c2469dee4746cfb20d1d6822fc313f)
+
+[auto-fit and auto-fill](https://www.notion.so/auto-fit-and-auto-fill-85e9a6de4dc7482589e7732279dfde60)
+
+[Selectors, Diving Into the Basics of CSS](https://www.notion.so/Section-2-Diving-Into-the-Basics-of-CSS-5c6d29095cec42b68901b1b441f29426)
+
+[margin auto applicable](https://www.notion.so/margin-auto-applicable-78480382a052499a9b013a7f70d7f0b7)
+[css video background](https://www.notion.so/css-video-background-706df96c23f34d43a330e94b516dbaee)
+
+[css overlay](https://www.notion.so/css-overlay-50148a77a1aa4461a95c7e81f61d4b8e)
+
+[smoothly go up animation ](https://www.notion.so/smoothly-go-up-animation-65679989406244878d3bc3dc1d2ed943)
+
+[filter invert](https://www.notion.so/filter-invert-bac52b8580c24144a640addd83910d90)
+
+
+# Techniques
+
+[css video background](https://www.notion.so/css-video-background-706df96c23f34d43a330e94b516dbaee)
+
+[css overlay](https://www.notion.so/css-overlay-50148a77a1aa4461a95c7e81f61d4b8e)
+
+[smoothly go up animation ](https://www.notion.so/smoothly-go-up-animation-65679989406244878d3bc3dc1d2ed943)
+
+[filter invert](https://www.notion.so/filter-invert-bac52b8580c24144a640addd83910d90)
+
+[margin auto applicable](https://www.notion.so/margin-auto-applicable-78480382a052499a9b013a7f70d7f0b7)
+
+[Radio button as a normal button](https://www.notion.so/Radio-button-as-a-normal-button-7c95eac99acc431bac894a80a2b8769a)
+
+[draw hamburger with css ](https://www.notion.so/draw-hamburger-with-css-a212f399ebba4e4292d1965ba7a69a4e)
+
+[center element using absolute position](https://www.notion.so/center-element-using-absolute-position-06fae291e1f4457c99e923114654e80c)
+
+[ways to center element](https://www.notion.so/ways-to-center-element-44c2469dee4746cfb20d1d6822fc313f)
+
+[image hover effect](https://www.notion.so/image-hover-effect-2521ff4cdf924952875a9e0dddc224af)
+
+[Dynamic Grid for image gallery ](https://www.notion.so/Dynamic-Grid-for-image-gallery-bb0b21bbcca94af29198e62676964b4d)
+
+
 # CSS Settings
 
 [My default Setting](https://www.notion.so/My-default-Setting-b1c38b41f98d432f9498c7fcfadf3f55)
