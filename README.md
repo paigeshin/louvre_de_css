@@ -76,6 +76,8 @@
 
 # CSS Settings
 
+[My Default Variables](https://www.notion.so/default-cced8bc8fb6f4c26a31d5e03c199c9a7)
+
 [My default Setting](https://www.notion.so/My-default-Setting-b1c38b41f98d432f9498c7fcfadf3f55)
 
 # CSS by building Secret Letter Web
