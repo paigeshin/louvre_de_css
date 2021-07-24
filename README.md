@@ -51,6 +51,8 @@
 
 # Techniques
 
+[Desktop first, tablet, mobile](https://www.notion.so/Desktop-first-tablet-mobile-696ca18d709148d088560c5d145de471)
+
 [css video background](https://www.notion.so/css-video-background-706df96c23f34d43a330e94b516dbaee)
 
 [css overlay](https://www.notion.so/css-overlay-50148a77a1aa4461a95c7e81f61d4b8e)
