@@ -73,6 +73,30 @@
 
 [Dynamic Grid for image gallery ](https://www.notion.so/Dynamic-Grid-for-image-gallery-bb0b21bbcca94af29198e62676964b4d)
 
+[Media Query](https://www.notion.so/Media-Query-6eea464fcdca4fb0898930f8a945a0e6)
+
+[force child image to fit parent](https://www.notion.so/force-child-image-to-fit-parent-7684e961df9c4b82845e77049ad73726)
+
+[force image to bottom while keeping aspect ratio ](https://www.notion.so/force-image-to-bottom-while-keeping-aspect-ratio-3c2a414471684d54a6caa3b90bebbd2d)
+
+[creating gradient overlay ](https://www.notion.so/creating-gradient-overlay-4889fa4bd5294a54bf54e77612d837e1)
+
+[gradient overlay using ::after](https://www.notion.so/gradient-overlay-using-after-d83ef40408644b7aa8269aa647a633df)
+
+[Create Simple Modal](https://www.notion.so/Create-Simple-Modal-63e9502d09454ae1b5c08a94e328a3e4)
+
+[Media Query Desktop First](https://www.notion.so/Media-Query-Desktop-First-8582bbd815a047c59b58bf758c35bf11)
+
+[child element going outside of parent intentionally](https://www.notion.so/child-element-going-outside-of-parent-intentionally-a33e78a661ff4194a2ed9c582e567fb8)
+
+[Bottom layout skewed](https://www.notion.so/Bottom-layout-skewed-233e4b7bef124e4a8b7c1aea1462c161)
+
+[Grab the first child](https://www.notion.so/Grab-the-first-child-8c741f660852408ebf7d46cb8d956654)
+
+[center individual grid item ](https://www.notion.so/center-individual-grid-item-fc9cb8927a0247a6aa6c755528594eb5)
+
+[html, tag for code](https://www.notion.so/html-tag-for-code-90566c635d4d4d38b6a6b3fc191c2658)
+
 
 # CSS Settings
 
