@@ -51,6 +51,8 @@
 
 # Techniques
 
+[Gradient Border ](https://www.notion.so/Gradient-Border-934cb0caa50d45e2bf11845ad89ebe6b)
+
 [Desktop first, tablet, mobile](https://www.notion.so/Desktop-first-tablet-mobile-696ca18d709148d088560c5d145de471)
 
 [css video background](https://www.notion.so/css-video-background-706df96c23f34d43a330e94b516dbaee)
