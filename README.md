@@ -48,8 +48,16 @@
 
 [filter invert](https://www.notion.so/filter-invert-bac52b8580c24144a640addd83910d90)
 
+# Cross Browsing
+
+[prevent date field from different appearance on other browsers](https://www.notion.so/prevent-date-field-from-different-appearance-on-other-browsers-d38624ae3c2b4228adf9e18d244e5fcc)
+
 
 # Techniques
+
+[prevent date field from different appearance on other browsers](https://www.notion.so/prevent-date-field-from-different-appearance-on-other-browsers-d38624ae3c2b4228adf9e18d244e5fcc)
+
+[Button disabled handling css](https://www.notion.so/Button-disabled-handling-css-0c79d67d179745d5b72bd784dd638198)
 
 [Gradient Border ](https://www.notion.so/Gradient-Border-934cb0caa50d45e2bf11845ad89ebe6b)
 
